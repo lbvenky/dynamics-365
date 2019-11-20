@@ -42,7 +42,7 @@
   - Cases
   
 ## Demo Video
-[![Microsoft Dynamics 365 Demo](D365-Font-cover.png)](https://emisgroup.sharepoint.com/:v:/s/MicrosoftDynamics365/EQGWUsI9K1FGsH_uNwE4g5UB_q88YNllCRoMJSrs2gCCKQ?e=TgQcA5)
+[![Microsoft Dynamics 365 Demo](D365-Font-cover.png)](https://emisgroup.sharepoint.com/:v:/s/MicrosoftDynamics365/EQGWUsI9K1FGsH_uNwE4g5UB_q88YNllCRoMJSrs2gCCKQ?e=TgQcA5){:target="_blank"}
 
 
 ## Sources
